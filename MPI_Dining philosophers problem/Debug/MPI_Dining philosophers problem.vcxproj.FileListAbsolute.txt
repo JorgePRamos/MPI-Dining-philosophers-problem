@@ -1,0 +1,2 @@
+C:\Users\Jorge\Documents\Ingenieria informatica\Code\Visual_Studio\MPI_Dining philosophers problem\MPI_Dining philosophers problem\Debug\MPI_Dining philosophers problem.exe
+C:\Users\Jorge\Documents\Ingenieria informatica\Code\Visual_Studio\MPI_Dining philosophers problem\MPI_Dining philosophers problem\Debug\MPI_Dining philosophers problem.pdb

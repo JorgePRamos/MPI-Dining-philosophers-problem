@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MPI_Dining philosophers problem.cpp">
+    <ClCompile Include="Main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="reference.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
