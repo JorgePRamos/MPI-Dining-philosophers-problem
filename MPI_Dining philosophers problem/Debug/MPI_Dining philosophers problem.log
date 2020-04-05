@@ -1,4 +1,4 @@
 ﻿  Main.cpp
-C:\Users\Jorge\Documents\Ingenieria informatica\Code\Visual_Studio\MPI_Dining philosophers problem\MPI_Dining philosophers problem\Main.cpp(18,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\Jorge\Documents\Ingenieria informatica\Code\Visual_Studio\MPI_Dining philosophers problem\MPI_Dining philosophers problem\Main.cpp(86,9): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'char **'
+C:\Users\Jorge\Documents\Ingenieria informatica\Code\Visual_Studio\MPI_Dining philosophers problem\MPI_Dining philosophers problem\Main.cpp(19,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Jorge\Documents\Ingenieria informatica\Code\Visual_Studio\MPI_Dining philosophers problem\MPI_Dining philosophers problem\Main.cpp(104,9): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'char **'
   MPI_Dining philosophers problem.vcxproj -> C:\Users\Jorge\Documents\Ingenieria informatica\Code\Visual_Studio\MPI_Dining philosophers problem\MPI_Dining philosophers problem\Debug\MPI_Dining philosophers problem.exe
