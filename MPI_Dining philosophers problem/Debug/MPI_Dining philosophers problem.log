@@ -1,1 +1,5 @@
-﻿  MPI_Dining philosophers problem.vcxproj -> C:\Users\Jorge\Documents\Ingenieria informatica\Code\Visual_Studio\MPI_Dining philosophers problem\MPI_Dining philosophers problem\Debug\MPI_Dining philosophers problem.exe
+﻿  reference.cpp
+  Main.cpp
+C:\Users\Jorge\Documents\Ingenieria informatica\Code\Visual_Studio\MPI_Dining philosophers problem\MPI_Dining philosophers problem\Main.cpp(42,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  MPI_Dining philosophers problem.vcxproj -> C:\Users\Jorge\Documents\Ingenieria informatica\Code\Visual_Studio\MPI_Dining philosophers problem\MPI_Dining philosophers problem\Debug\MPI_Dining philosophers problem.exe
